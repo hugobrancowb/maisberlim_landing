@@ -1,0 +1,44 @@
+CONTRATO DE LICENÇA DE USUÁRIO FINAL – ASSINATURAS MAIS BERLIM (CLUBE DE VANTAGENS)
+
+Este contrato ("Licença") é firmado entre você ("Usuário") e Hugo Branco ("Licenciante"), e regula o uso das assinaturas do Clube de Vantagens do aplicativo Mais Berlim ("Aplicativo"). Esta Licença é firmada apenas entre você e o Licenciante, e não com a Apple Inc. ("Apple"). Ao assinar, você concorda com esta Licença e com os Termos e Condições do Aplicativo.
+
+1. ESCOPO DA LICENÇA
+O Licenciante concede a você uma licença limitada, pessoal, não exclusiva e intransferível para acessar o conteúdo exclusivo do Clube de Vantagens em dispositivos Apple que você possua ou controle, conforme as Regras de Uso dos Termos de Serviço da App Store. É proibido copiar, revender, alugar, sublicenciar, redistribuir, modificar, fazer engenharia reversa ou compartilhar o conteúdo ou o acesso à assinatura.
+
+2. ASSINATURA E PAGAMENTO
+a) A assinatura está disponível nos planos mensal e anual, com preço exibido no Aplicativo antes da compra.
+b) O pagamento é cobrado na sua conta Apple ID na confirmação da compra.
+c) A assinatura é renovada automaticamente pelo mesmo período e valor, salvo se cancelada até 24 horas antes do fim do período vigente.
+d) O cancelamento é feito nos Ajustes da conta Apple ID e passa a valer ao final do período já pago.
+e) Reembolsos seguem exclusivamente as políticas da Apple. Não há reembolso de períodos parcialmente utilizados.
+f) Preços e conteúdos podem ser alterados. Alterações de preço serão comunicadas com antecedência e valerão a partir da próxima renovação.
+
+3. DADOS
+Você concorda que o Licenciante pode coletar e usar dados técnicos sobre seu dispositivo e uso do Aplicativo para fornecer o serviço, gerenciar a assinatura e oferecer suporte, conforme a Política de Privacidade do Aplicativo.
+
+4. RESCISÃO
+Esta Licença vigora até ser encerrada por você ou pelo Licenciante. Seus direitos terminam automaticamente se você descumprir qualquer cláusula. Após o encerramento, você deve parar de usar o conteúdo exclusivo.
+
+5. SERVIÇOS E CONTEÚDO DE TERCEIROS
+O Aplicativo pode exibir informações e benefícios fornecidos por terceiros. O Licenciante não garante a precisão, disponibilidade ou qualidade desses conteúdos e não se responsabiliza por eles.
+
+6. ISENÇÃO DE GARANTIAS
+O Aplicativo e o conteúdo da assinatura são fornecidos "no estado em que se encontram" e "conforme disponíveis", sem garantias de qualquer tipo, na máxima extensão permitida pela lei. O Licenciante não garante que o serviço será ininterrupto ou livre de erros.
+
+7. LIMITAÇÃO DE RESPONSABILIDADE
+Na máxima extensão permitida pela lei, o Licenciante não será responsável por danos indiretos, incidentais ou consequentes decorrentes do uso ou da impossibilidade de uso do Aplicativo. A responsabilidade total do Licenciante não excederá o valor pago por você pela assinatura nos últimos 12 meses. Nada nesta Licença limita direitos garantidos pelo Código de Defesa do Consumidor.
+
+8. APPLE
+a) A Apple não tem obrigação de fornecer manutenção ou suporte ao Aplicativo.
+b) O Licenciante, e não a Apple, é responsável por quaisquer reclamações relacionadas ao Aplicativo, incluindo responsabilidade pelo produto, conformidade legal e direitos de propriedade intelectual de terceiros.
+c) Em caso de falha do Aplicativo em cumprir alguma garantia aplicável, você pode notificar a Apple, que poderá reembolsar o preço de compra, quando aplicável. A Apple não terá nenhuma outra obrigação de garantia.
+d) A Apple e suas subsidiárias são terceiras beneficiárias desta Licença e poderão exigir seu cumprimento.
+e) Você declara não estar em país sujeito a embargo do governo dos EUA nem em lista de partes restritas.
+
+9. LEI APLICÁVEL
+Esta Licença é regida pelas leis da República Federativa do Brasil. Fica eleito o foro do domicílio do consumidor.
+
+10. CONTATO
+Dúvidas, reclamações ou suporte: hugobrancowb@gmail.com
+
+Vigência: a partir de 16/11/2026.

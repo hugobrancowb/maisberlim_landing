@@ -1,9 +1,9 @@
 ---
 layout: page
-title: What's New
+title: Novidades
 include_in_header: true
 ---
 
-### `Initial Release`
-# **Version 1.0**
-First release on stores with main funcionalities.
+### `Lançamento Inicial`
+# **Versão 1.0**
+Primeiro lançamento nas lojas com as principais funcionalidades.
